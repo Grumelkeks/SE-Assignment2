@@ -1,0 +1,3 @@
+Erstellen Sie einen möglichst prägnanten Prompt für Claude Code (o.ä.), um das in der Vorlesung besprochene Beispiel zum Composite Konstruktionsprinzip in Go implementieren zu lassen
+
+Abgabe Link zu Ihrem public GitHub Repo mit dem zugehörigen Go-Source-Code und dem Prompt.
