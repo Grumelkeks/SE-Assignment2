@@ -1,0 +1,3 @@
+Echter Prompt aus der Konversation mit Claude:
+Kannst du das Bild Angabe.jpg lesen und mit den darin enthaltenen Infos die Aufgabe in Aufgabe.txt lösen.
+Schreib davor nochmal kurz was du in Angabe.jpg gelesen hast, damit ich es überprüfen kann.
